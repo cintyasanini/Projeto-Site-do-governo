@@ -1,2 +1,1 @@
-# Projeto-Site-do-governo
-Repositório para o projeto de reforma do site do governo
+Projeto feito em grupo no curso PROA, recriação do Design do site do governo de SP.
